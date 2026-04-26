@@ -1,3 +1,11 @@
+# ⚡ British Auction RFQ System 
+
+A production-ready **reverse auction (British auction)** system where suppliers compete by submitting progressively lower bids. Built with Node.js, React, Socket.IO, and SQLite.
+
+---
+
+
+
 ---
 
 ## 🌐 Live Demo
@@ -33,11 +41,7 @@ https://british-auction-rfq-system-backend.onrender.com
 
 
 
-# ⚡ British Auction RFQ System — v2.0
 
-A production-ready **reverse auction (British auction)** system where suppliers compete by submitting progressively lower bids. Built with Node.js, React, Socket.IO, and SQLite.
-
----
 
 ## 🚀 Quick Start
 
