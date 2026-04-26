@@ -348,3 +348,6 @@ VITE_SOCKET_URL=http://localhost:5000
 | Cannot bid after end_time | Auction service |
 | Anti-spam cooldown (5s) | Rate limit via bid history |
 | extension_type must be valid | DB CHECK + controller |
+
+
+# Built with Love By LikhithaJagadeesh
