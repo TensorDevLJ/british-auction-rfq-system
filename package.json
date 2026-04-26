@@ -1,0 +1,13 @@
+{
+  "name": "british-auction-rfq",
+  "version": "2.0.0",
+  "description": "British Auction RFQ System — Full Stack",
+  "private": true,
+  "scripts": {
+    "install:all":   "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend":   "cd backend && npm run dev",
+    "dev:frontend":  "cd frontend && npm run dev",
+    "seed":          "cd backend && npm run seed",
+    "reset":         "rm -f backend/data/auction.db && npm run seed"
+  }
+}
