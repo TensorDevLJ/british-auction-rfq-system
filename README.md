@@ -1,3 +1,38 @@
+---
+
+## 🌐 Live Demo
+
+### 🔗 Frontend
+https://british-auction-frontend-likhitha.vercel.app/
+
+### 🔗 Backend API
+https://british-auction-rfq-system-backend.onrender.com
+
+---
+
+## 🧪 How to Test
+
+1. Open the frontend link  
+2. Create a new RFQ  
+3. Submit bids  
+4. Open the app in another tab to see real-time updates  
+5. Observe:
+   - L1/L2 ranking updates
+   - Auction extension in trigger window
+   - Activity log updates
+
+---
+
+## ⚠️ Notes
+
+- Backend is deployed on Render (may take a few seconds to wake up)
+- Database uses SQLite (data may reset on redeploy)
+- Real-time updates powered by Socket.IO
+
+---
+
+
+
 # ⚡ British Auction RFQ System — v2.0
 
 A production-ready **reverse auction (British auction)** system where suppliers compete by submitting progressively lower bids. Built with Node.js, React, Socket.IO, and SQLite.
